@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoints
+  - CameraHolder
+  - enemy 2
+  - Floor
+  - PlayerHurtShader
+  - Pill 2
+  - ComputerChips
+  - Dash Button
+  - Shield Button
+  - ChipsText
+  - Radar Button
+  - Bullet
+  - NPCs
+  - enemy
+  - Puzzle
+  - sword
+  - shield
+  - MusicOptionSlider
+  - SoundOptionSlider
+  - ladder
+  - Pressure Plate
+  - Lava
+  - Pill
+  - END
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enviroment
+  - Water
+  - UI
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
